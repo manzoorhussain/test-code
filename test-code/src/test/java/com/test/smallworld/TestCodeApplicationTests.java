@@ -44,7 +44,7 @@ class TestCodeApplicationTests {
     @Autowired
     private CommonUtil commonUtil;
 
-    private String baseURL = "/transactions/v1/api/";
+    private final String baseURL = "/transactions/v1/api/";
     @Autowired
     private TransactionDataFetcher transactionDataFetcher;
 
