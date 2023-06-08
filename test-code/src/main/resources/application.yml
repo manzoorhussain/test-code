@@ -1,0 +1,5 @@
+file:
+  name : src/main/resources/transactions.json
+message:
+  administrator: Please contact to Administrator
+  invalid-sender-name: Invalid sender name
